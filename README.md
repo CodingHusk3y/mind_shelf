@@ -120,13 +120,11 @@
 
 ## Overview
 
-
+AI Book Summarizer
 
 ---
 
 ## Features
-
-<code>❯ REPLACE-ME</code>
 
 ---
 
@@ -265,9 +263,9 @@ yarn test
 
 ## Roadmap
 
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
+- [X] **`Task 1`**: <strike>Implement base features.</strike>
+- [ ] **`Task 2`**: Implement new features.
+- [ ] **`Task 3`**: Deploy the project.
 
 ---
 
